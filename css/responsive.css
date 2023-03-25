@@ -1,0 +1,222 @@
+
+
+
+
+/* ======== SMALL DEVICE CSS START ======== */
+
+
+
+@media (max-width: 575.98px) {
+
+    /* ======== NAVBAR CSS START ======== */
+
+    .navbar {
+        padding: 20px 10px;
+    }
+
+    .navbar-brand {
+        transform: scale(0.9);
+    }
+
+
+
+
+
+
+
+
+
+
+    /* ======== NAVBAR CSS   END ======== */
+
+
+
+
+
+/* ======== BANNER CSS START ======== */
+
+.banner-text h3 {
+	font-size: 28px;
+}
+
+.banner-text h2 {
+	padding-top: 10px;
+	font-size: 36px;
+}
+
+.banner-text p {
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+.banner-text p span {
+	display: inline;
+	padding-top: 0px;
+    line-height: 14px;
+}
+.banner-btn a {
+	width: 90px;
+	padding: 10px 0px;
+	margin-right: 20px;
+    font-size: 13px;
+}
+.left-right-icons{
+    display: none;
+}
+
+#banner-bg1{
+    padding-top: 140px;
+    padding-bottom: 60px;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+}
+#banner-bg2 {
+    padding-top: 140px;
+    padding-bottom: 60px;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+}
+#banner-bg3{
+    padding-top: 140px;
+    padding-bottom: 60px;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ======== About PART CSS START ======== */
+
+
+#about-part {
+	padding: 20px 0px;
+}
+.common-title h2 {
+	padding-top: 40px;
+	font-size: 28px;
+}
+.common-title p {
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+
+/* ======== About PART CSS   END ======== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ======== PORTFOLIO CSS START ======== */
+
+
+.portfolio-bg {
+	padding: 100px 0px;
+	clip-path: polygon(0 0%, 100% 0%, 100% 100%, 0% 100%);
+}
+
+.portfolio-common-title h2 {
+	font-size: 28px;
+}
+.portfolio-common-title p {
+	padding-top: 20px;
+	padding-bottom: 45px;
+}
+.portfolio-common-title p span {
+	display: inline;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* ======== PORTFOLIO CSS   END ======== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ======== BANNER CSS   END ======== */
+
+
+}
+
+
+/* ======== SMALL DEVICE CSS   END ======== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ======== SMALL DEVICE CSS START ======== */
+/* ======== SMALL DEVICE CSS   END ======== */
+/* ======== SMALL DEVICE CSS START ======== */
+/* ======== SMALL DEVICE CSS   END ======== */
+/* ======== SMALL DEVICE CSS START ======== */
+/* ======== SMALL DEVICE CSS   END ======== */
